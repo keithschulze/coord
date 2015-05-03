@@ -6,7 +6,7 @@ version = '0.1.0'
 setup(name='coord',
       version=version,
       description="Conversion between different coordinate systems",
-      long_description=open('README.txt').read(),
+      long_description=open('README.md').read(),
       classifiers=[], # Get strings from http://pypi.python.org/pypi?%3Aaction=list_classifiers
       keywords='spatial coordinate cartesian spherical cylindrical',
       author='Keith Schulze',
